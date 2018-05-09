@@ -10,7 +10,7 @@
 #### 2.不同格式图片常用业务场景
 - jpg有损压缩，压缩率高，不支持透明
 - png支持透明，浏览器兼容号
-- webp压缩程度更好，在ios webview有兼容问题。访问<a href="zhitu.isux.us">智图_图片压缩在线工具</a>
+- webp压缩程度更好，在ios webview有兼容问题。访问<a href="http://zhitu.isux.us">智图_图片压缩在线工具</a>
 - svg矢量图，代码内嵌，相对较小，图片样式相对简单的场景
 
 #### 3.CSS雪碧图
