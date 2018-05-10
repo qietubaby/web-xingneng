@@ -6,7 +6,7 @@
 - png8 —— 256色+支持透明  8bit
 - png24 —— 2^24色+支持透明 24bit
 - png32 —— 2^24色+支持透明
-- 访问<a href="https://tinypng.com/">png图片压缩</a>
+- 访问<a href="https://tinypng.com/">png图片压缩tinypng</a>
 #### 2.不同格式图片常用业务场景
 - jpg有损压缩，压缩率高，不支持透明
 - png支持透明，浏览器兼容号
@@ -16,6 +16,7 @@
 #### 3.CSS雪碧图
 - 优点：减少网站的HTTP请求数量
 - 缺点：整合图片比较大时，一次加载比较慢
+-<a http://www.spritecow.com/>访问雪碧图网站spritecow</a>
 
 #### 4.Imge inline
 - 将图片的内容内嵌到html当中
